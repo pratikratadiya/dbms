@@ -7,6 +7,6 @@ Implementation of SQL queries for commonly used DBMS operations including:
 4. Triggers
 5. JDBC connectivity
 
-This repository covers DBMS queries for the following databases:
+This repository covers queries for the following databases:
 1. MySQL
 2. MongoDB
